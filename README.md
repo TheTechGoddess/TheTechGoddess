@@ -1,4 +1,4 @@
-# 💛💛💛💛💛TheTechGoddess 💛💛💛💛💛
+# 💛TheTechGoddess 💛
 
 👋 Hi, I’m Favour 😊
 
