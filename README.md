@@ -60,7 +60,8 @@ I have excellent design & coding skills, as well as an ability to convert requir
 - ⚙️ &nbsp;Other Tools: &nbsp;
   ![Heroku](https://img.shields.io/badge/-Heroku-0A1A2F?style=flat&logo=heroku)
   ![Netlify](https://img.shields.io/badge/-Netlify-0A1A2F?style=flat&logo=netlify)
-  ![AWS](https://img.shields.io/badge/-aws-0A1A2F?style=flat&logo=aws)
+  ![AWS](https://img.shields.io/badge/-Aws-0A1A2F?style=flat&logo=aws)
+  ![Vercel](https://img.shields.io/badge/-Vercel-0A1A2F?style=flat&logo=vercel)
 
 <br/>
 
