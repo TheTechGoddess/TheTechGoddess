@@ -67,5 +67,7 @@ I have excellent design & coding skills, as well as an ability to convert requir
 
 ### Github Stats
 [![Favour Enwonwu GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheTechGoddess&show_icons=true&count_private=false)](https://github.com/TheTechGoddess)
+### Github Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TheTechGoddess&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
